@@ -1,0 +1,10 @@
+TD {
+	font-family : Verdana;
+	font-size : 12px;
+}
+.cell {
+	text-align : center;
+}
+
+a { color: #ff9933;}
+/* a:visited {color: #984c00b2;} */
